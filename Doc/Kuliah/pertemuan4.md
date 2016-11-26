@@ -1,4 +1,4 @@
-**SISTEM INFORMASI GEOGRAFI – PERTEMUAN 4**
+**SISTEM INFORMASI GEOGRAFI â€“ PERTEMUAN 4**
 
 **Retrive Data Geospasial**
 
@@ -19,7 +19,7 @@ Manipulasi data geospasial dapat dilakukan dengan menggunakan fungsi CRUD (Creat
 
 **Shapefile** terbagi menjadi dua, yaitu :
 <p align="center">
-	<img src="https://github.com/nurilafaradila/Sistem-Informasi-Geografis/blob/master/img/1.jpg">
+	<img src="https://github.com/nurilafaradila/Sistem-Informasi-Geografis/blob/master/img/1.JPG">
 </p>
 
 Data geometri adalah data kordinat yang membentuk bangun datar/ruang, diantaranya :
@@ -29,7 +29,7 @@ Data geometri adalah data kordinat yang membentuk bangun datar/ruang, diantarany
 
 **Operasi pengambilan data** , menggunakan library pyshp class shapefile
 <p align="center">
-	<img src="https://github.com/nurilafaradila/Sistem-Informasi-Geografis/blob/master/img/2.jpg">
+	<img src="https://github.com/nurilafaradila/Sistem-Informasi-Geografis/blob/master/img/2.JPG">
 </p>
 
 Method shp :
@@ -49,23 +49,23 @@ Method dbf :
 
 Menampilkan jumlah record dengan cmd
 <p align="center">
-	<img src="https://github.com/nurilafaradila/Sistem-Informasi-Geografis/blob/master/img/3.jpg">
+	<img src="https://github.com/nurilafaradila/Sistem-Informasi-Geografis/blob/master/img/3.JPG">
 </p>
 
 
 Membuat class geospasial editor
 <p align="center">
-	<img src="https://github.com/nurilafaradila/Sistem-Informasi-Geografis/blob/master/img/4.jpg">
+	<img src="https://github.com/nurilafaradila/Sistem-Informasi-Geografis/blob/master/img/4.JPG">
 </p>
 
         Menggunakan tugas.py
 <p align="center">
-	<img src="https://github.com/nurilafaradila/Sistem-Informasi-Geografis/blob/master/img/5.jpg">
+	<img src="https://github.com/nurilafaradila/Sistem-Informasi-Geografis/blob/master/img/5.JPG">
 </p>
 
 Membuat method select, where countries
 <p align="center">
-	<img src="https://github.com/nurilafaradila/Sistem-Informasi-Geografis/blob/master/img/6.jpg">
+	<img src="https://github.com/nurilafaradila/Sistem-Informasi-Geografis/blob/master/img/6.JPG">
 </p>
 
 3. **Penutup**
