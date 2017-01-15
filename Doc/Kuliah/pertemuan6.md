@@ -2,6 +2,10 @@
 
 **MapServer &amp; MapProxy**
 
+<p align="center">
+	<img src="https://github.com/nurilafaradila/Sistem-Informasi-Geografis/blob/master/img/GIS6a.jpg">
+</p>
+
 1. **Latar Belakang**
 
 Pada pertemuan 6 GIS kali ini,  akan membahas :
@@ -11,6 +15,10 @@ Pada pertemuan 6 GIS kali ini,  akan membahas :
 - --MapProxy dan Fitur-Fitur
 
 - --Cara Menginstall MapProxy Pada CentOS
+
+<p align="center">
+	<img src="https://github.com/nurilafaradila/Sistem-Informasi-Geografis/blob/master/img/GIS6b.jpg">
+</p>
 
 1. **Pembahasan**
 
