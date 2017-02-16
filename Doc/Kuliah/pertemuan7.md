@@ -1,6 +1,10 @@
-**SISTEM INFORMASI GEOGRAFI – PERTEMUAN 7**
+**SISTEM INFORMASI GEOGRAFI â€“ PERTEMUAN 7**
 
 **Menjalankan MapServer &amp; MapProxy**
+
+<p align="center">
+	<img src="https://github.com/nurilafaradila/Sistem-Informasi-Geografis/blob/master/img/GIS7a.jpg">
+</p>
 
 1. **Latar Belakang**
 
@@ -11,6 +15,10 @@ Pada pertemuan 7 GIS kali ini,  akan membahas :
 - --Cara menjalankan MapServer &amp; MapProxy
 
 1. **Pembahasan**
+
+<p align="center">
+	<img src="https://github.com/nurilafaradila/Sistem-Informasi-Geografis/blob/master/img/GIS7b.png">
+</p>
 
 Cara menjalankannya adalah sebagai berikut :
 
